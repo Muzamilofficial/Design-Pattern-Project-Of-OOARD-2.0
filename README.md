@@ -1,4 +1,4 @@
-I modify my OOARD project and do modifications in it and apply Design Patterns on it such as (Builder, Singleton, Facade, Factory and other also).
+I modify my OOARD project and do modifications in it and apply Design Patterns on it such as (Builder, Singleton, Facade, Factory and other also) It have client website and also have admin panel integrate on C# MVC.
 
 ![13](https://github.com/Muzamilofficial/Design-Pattern-Project-Of-OOARD-2.0/assets/113015136/a5bf2e75-8084-4b72-96d8-a21d64c1fe45)
 ![12](https://github.com/Muzamilofficial/Design-Pattern-Project-Of-OOARD-2.0/assets/113015136/6aefeacd-2e7b-4e98-a437-5a15f82c68c2)
